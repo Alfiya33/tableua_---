@@ -1,1 +1,1 @@
-https://public.tableau.com/views/_17441406239490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/_17441406239490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link это первый дашборд, сделанный на основе датасета "vgsales.csv", взятый из Kaggle.
